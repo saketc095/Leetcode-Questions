@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saketc095/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/saketc095/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saketc095/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/saketc095/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/saketc095/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saketc095/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/saketc095/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 ## Union-Find
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saketc095/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/saketc095/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
