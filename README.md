@@ -94,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/saketc095/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/saketc095/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saketc095/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saketc095/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/saketc095/Leetcode-Questions/tree/master/0155-min-stack) |
 ## Math
 |  |
 | ------- |
